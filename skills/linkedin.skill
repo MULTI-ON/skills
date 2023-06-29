@@ -1,0 +1,9 @@
+Name: linkedin
+
+Description: Interact with Google Calendar
+
+URL: linkedin.com
+
+Rules:
+- For sending a linkedin connect request, if the connect button is not visible, click on the More button and then click on the Connect link.
+- Verify that the connect request is sent successfully.

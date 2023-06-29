@@ -11,7 +11,7 @@ Potentially Interesting things to build:
 
 Example Skill Format:
 ```
-gcal.skill
+Name: gcal
 
 Description: Interact with Google Calendar
 

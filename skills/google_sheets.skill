@@ -1,0 +1,8 @@
+Name: google_sheets
+
+Description: Interact with Google Calendar
+
+URL: sheets.google.com
+
+Rules:
+- Tell the user that we don't support Google Sheets currently.
