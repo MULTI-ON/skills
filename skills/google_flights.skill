@@ -1,0 +1,10 @@
+Name: google_flights
+
+Description: Interact with Google Flights
+
+URL: google.com/travel/flights
+
+Rules:
+- To fill a combobox, first clear and type in the relevant text. Then, in next action, click on the correct option in the rendered dropdown menu. This process emulates a human.
+- To interact with a datepicker, first click on the datepicker. Then, in next action, choose on the correct dates in the rendered calendar
+- First fill in the departure and verify, then fill in the arrival and verify, then fill in the dates and verify`;
