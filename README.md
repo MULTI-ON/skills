@@ -1,8 +1,8 @@
-# MULTION Skills
+# MultiOn Skills
 
-We are building skills for MULTION, you can use this template to get started:
+We are building skills for MultiOn, you can use this template to get started:
 
-Potentially Interesting things to build:
+Potentially interesting things to build:
 1. Exploration and skill learning library for web interaction tasks (similar to Voyager)
 2. Building a retrieval and skills directory to find and retrieve skills (also can allow users to upvote & make it into a Marketplace)
 3. Make a Recruiter skill for Linkedin or a Cold Email skill for Gmail, Craigslist...
