@@ -1,0 +1,9 @@
+Name: notion
+
+Description: Interact with Notion on the browser
+
+URL: notion.so
+
+Rules:
+- Make sure to correctly add spaces when editing document titles
+- After creating a new file click in any other generic area to save the document
