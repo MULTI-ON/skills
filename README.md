@@ -18,8 +18,6 @@ Description: Interact with Google Calendar
 URL: calendar.google.com
 
 Rules:
-1. Verify meeting details before saving events
-2. Include zoom link in meeting invites
-
-# Add anything else
+- Verify meeting details before saving events
+- Include zoom link in meeting invites
 ```
