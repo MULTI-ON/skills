@@ -6,5 +6,6 @@ URL: notion.so
 
 Rules:
 - Use capital letter to start titles
-- Use "\u00A0" to add whitespaces on titles
+- Add whitespaces after each word in the title
+- Dont repeate the title more than once
 - After creating a new file click in any other generic area to save the document
