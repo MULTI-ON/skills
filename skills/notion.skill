@@ -5,6 +5,6 @@ Description: Interact with Notion on the browser
 URL: notion.so
 
 Rules:
-- Make sure to correctly add spaces when editing document titles, be formal and add capital letter to start the title
-- Use /s to whitespaces
+- Use capital letter to start titles
+- Use "\u00A0" to add whitespaces on titles
 - After creating a new file click in any other generic area to save the document
