@@ -1,0 +1,8 @@
+Name: venmo
+
+Description: Make Venmo Payments
+
+URL: account.venmo.com/pay
+
+Rules:
+- Before pressing pay, make sure to select the correct person from the dropdown
