@@ -6,6 +6,7 @@ URL: notion.so
 
 Rules:
 - Use capital letter to start titles
-- Add whitespaces after each word in the title
+- Add two whitespaces after each word in the title
 - Dont repeate the title more than once
+- To create a new document click on Empty Page button
 - After creating a new file click in any other generic area to save the document
