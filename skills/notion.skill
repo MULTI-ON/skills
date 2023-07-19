@@ -10,4 +10,4 @@ Rules:
 - Don't write the content of the document in the same field as the Title, instead click on "Empty page"
 - Click on the newly created document to save it
 - To start writing in the body of a document click on "Empty page"
-- For a new line click in the next field with placeholder "Press space for AI"
+- Instead of using \n for a new line always click in the next field with placeholder "Press space for AI"
