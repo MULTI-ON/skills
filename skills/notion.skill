@@ -5,8 +5,6 @@ Description: Interact with Notion on the browser
 URL: notion.so
 
 Rules:
-- Use capital letter to start titles
-- Add two whitespaces after each word in the title
+- Prefer capital letters to start titles
 - Dont repeate the title more than once
-- To save and create a new document after inserting the title click on the "Empty Page" button
-- After creating a new file click in any other generic area to save the document
+- Click on the newly created document to save it
