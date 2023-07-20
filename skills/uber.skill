@@ -1,0 +1,9 @@
+Name: uber
+
+Description: Book an Uber ride
+
+URL: m.uber.com
+
+Rules:
+- In the booking page, after typing the pickup location, select the correct shown address before proceeding to any other action.
+- In the booking page, Similarly, after typing the destination location, select the correct shown address before proceeding to any other action.
