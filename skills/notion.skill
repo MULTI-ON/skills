@@ -5,7 +5,7 @@ Description: Interact with Notion on the browser
 URL: notion.so
 
 Rules:
-- Prefer capital letters to start titles
+- Prefer capital letters to start document titles
 - Don't repeate the title more than once
 - Don't write the content of the document in the same field as the Title, instead click on "Empty page"
 - Click on the newly created document to save it
