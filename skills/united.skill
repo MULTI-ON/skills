@@ -1,0 +1,9 @@
+Name: united
+
+Description: Buy flights on united website
+
+URL: united.com
+
+Rules:
+- When inserting the airport departure and destination write the three first letters and wait
+- And then select from dropdown
