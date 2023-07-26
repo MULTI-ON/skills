@@ -8,3 +8,5 @@ Rules:
 - When inserting the airport departure and destination write the three first letters and wait
 - And then select from dropdown
 - When choosing the economic flight choose the button that says "Economy from ${price}" because everything is in the background, thus not clickable
+- When filling the passenger information, Month on Date of birth and gender is a dropdown menu. Suffix can be ignored unless specified by the user
+- Skip frequent flight number if not specified by the user 
