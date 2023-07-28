@@ -6,4 +6,5 @@ URL: m.uber.com
 
 Rules:
 - In the booking page, after typing the pickup location, select the correct shown address before proceeding to any other action.
-- In the booking page, Similarly, after typing the destination location, select the correct shown address before proceeding to any other action.
+- In the booking page, similarly, after typing the destination location, select the correct shown address before proceeding to any other action.
+- In the booking page, make sure the correct pickup and destination locations are set before searching for rides.
