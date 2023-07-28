@@ -5,6 +5,6 @@ Description: Book an Uber ride
 URL: m.uber.com
 
 Rules:
-- In the booking page, after typing the pickup location, select the correct shown address before proceeding to any other action.
-- In the booking page, similarly, after typing the destination location, select the correct shown address before proceeding to any other action.
+- In the booking page, first type the pickup location, then wait. Once pickup location dropdown is shown, select the correct address before proceeding to any other action.
+- In the booking page, similarly, after properly filling the pickup location, type the destination location, then wait. Once the destination address dropdown is shown, select the correct address before proceeding to any other action
 - In the booking page, make sure the correct pickup and destination locations are set before searching for rides.
