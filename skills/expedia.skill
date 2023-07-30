@@ -5,7 +5,7 @@ Description: Book flights on expedia website
 URL: expedia.com
 
 Rules:
-- Interact with ONLY one menu at a time. Don't try to click or open all menus at once.
+- Interact with ONLY one menu at a time in a single action. Don't try to click or open all menus at once.
 - First click to open a menu then wait. Then in the next action type the text and wait. Then in the next action click on the correct option in the dropdown menu. This process emulates a human.
 - Verify that the interaction with the menu finished succesfully, and then repeat this process with each menu one by one to input all details
 - Check all details are correct and then press search
