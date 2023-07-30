@@ -1,0 +1,11 @@
+Name: expedia
+
+Description: Book flights on expedia website
+
+URL: expedia.com
+
+Rules:
+- Interact with only one input menu at a time
+- First click to open a menu then wait. Then type the text and wait. Then click on the correct option in the dropdown menu. This process emulates a human.
+- Repeat this process with each menu one by one to input all details
+- Check all details are correct and then press search
