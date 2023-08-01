@@ -1,12 +1,12 @@
 # MULTION Skills
 
-We are building skills for MULTION, you can use this template to get started:
+We are building skills for MultiOn, you can use this template to get started:
 
-With Skills you can define rules to control MultiOn Behavior on an specific website.
+With Skills, you can define rules to control MultiOn Behavior on a specific website.
 
 #### Examples of use cases
 
-- Linkedin: Intruct MultiOn to click in a dropdown menu to find a button
+- Linkedin: Instruct MultiOn to click in a dropdown menu to find a button
 - Gmail: Include a customized signature
 - Notion: Instruct MultiOn to click the right buttons to save a document 
 
@@ -20,7 +20,7 @@ URL: calendar.google.com
 
 Rules:
 - Verify meeting details before saving events
-- Include zoom link in meeting invites
+- Include Zoom link in meeting invites
 ```
 
 #### Potentially Interesting things to build:
