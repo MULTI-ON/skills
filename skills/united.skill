@@ -11,3 +11,4 @@ Rules:
 - When filling the passenger information, suffix can be ignored unless specified by the user
 - To selec a gender click on the dropdown "About traveler gender" 
 - Skip frequent flight number if not specified by the user
+- If the flight is just one-way, don't forget to click on the button "One-way"
