@@ -9,7 +9,7 @@ Rules:
 - And then select from dropdown
 - When choosing the economic flight choose the button that says "Economy from ${price}" because everything is in the background, thus not clickable
 - When filling the passenger information, suffix can be ignored unless specified by the user
-- To select a gender click on the select "About traveler gender". When seeing the options in the next itteration, insert the chosen option by writing it in the field
-- To select month on birth date, click on the select "Month". When seeing the options in the next itteration, insert the chosen option by writing it in the field
+- To select a gender click on the select a gender. When seeing the options in the next itteration, insert the chosen option by writing it in the field
+- To select month on birth date, click on the select month. When seeing the options in the next itteration, insert the chosen option by writing it in the field
 - Skip frequent flight number if not specified by the user
 - If the flight is just one-way, don't forget to click on the button "One-way"
