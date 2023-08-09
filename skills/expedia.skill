@@ -6,6 +6,7 @@ URL: expedia.com
 
 Rules:
 - Interact with ONLY one button or menu at a time in a single command. Don't try to click or open all menus at once.
-- First, click to open a menu then wait. Then in the next action type the text and wait. Then in the next action click on the correct option in the dropdown menu. This process emulates a human.
+- To interact with a menu, click to open a menu then wait. Then in the next action type the text and wait. Then in the next action click on the correct option in the dropdown menu. This process emulates a human.
+- First, select the departure location and verify it is correct before moving on, then select the arrival location and verify it is correct, then select the dates and verify`;
 - Verify that the interaction with the menu finished successfully, and then repeat this process with each menu one by one to input all details
 - Check all details are correct and then press search
