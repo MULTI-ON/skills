@@ -5,6 +5,6 @@ Description: Interact with Google Flights
 URL: google.com/travel/flights
 
 Rules:
-- To fill a combobox, type in the relevant text and wait. If the text was not typed then retry. Then, in next action, click on the correct option in the dropdown menu. This process emulates a human.
-- First select the departure location and verify it is correct before moving on, then select the arrival location and verify it is correct, then select the dates and verify`;
+- To fill a combobox, type in the relevant text and wait. If the text was not typed then retry. Then, in the following action, click on the correct option in the dropdown menu. This process emulates a human.
+- First fill in the departure location and verify it is correct before moving on, then in the next actions fill in the arrival location and verify it is correct, then in the next actions fill the dates and verify`;
 - To interact with a datepicker, first click on the datepicker. Then, in next action, choose on the correct dates in the rendered calendar
