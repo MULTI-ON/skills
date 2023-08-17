@@ -9,6 +9,6 @@ Rules:
 - To fill a combobox, type in the relevant text and wait. If the text was not typed then retry. Then, in the following action, select the correct option in the dropdown menu and wait. This process emulates a human.
 - Always remember to select the correct option from the dropdown (using click) before moving to the next menu
 - First fill in the departure location and verify it is correct before moving on, then wait and in the next actions fill in the arrival location and verify it is correct, then wait and in the next actions fill the dates and verify`
-- To select the city pick the button "Toggle nearby airports for {City}", after choosing it, click done to close the combobox
+- To select the city pick the button "Toggle nearby airports for {City}", after choosing it, wait the next iteration to see the airports for the selected city. Select the airport and after confirming if it is correct click 'done'
 - To interact with a datepicker, first click on the datepicker. Then, in next action, choose on the correct dates in the rendered calendar
 - No need to issue a clear command on this page, as a type command will automatically rewrite previous text
