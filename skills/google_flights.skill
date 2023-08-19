@@ -10,3 +10,4 @@ Rules:
 - First fill in the departure location and verify it is correct before moving on, then wait and in the next actions fill in the arrival location and verify it is correct, then wait and in the next actions fill the dates and verify`
 - To interact with a datepicker, first click on the datepicker. Then, in next action, choose on the correct dates in the rendered calendar
 - No need to issue a clear command on this page, as a type command will automatically rewrite previous text
+- If only one date is provided assume it is a one way trip, and change it from Round Trip to One Way
