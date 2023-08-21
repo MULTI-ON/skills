@@ -5,8 +5,13 @@ Description: Book flights on Expedia website
 URL: expedia.com
 
 Rules:
-- Interact with ONLY one menu (or button) at a time in a single action.
-- To interact with a menu, first click to open a menu then wait. Then in the next action type the text and wait. Then in the following action select the correct option in the dropdown menu and wait. This process emulates a human.
-- Always remember to select the correct option from the dropdown (using click) before moving to the next menu
-- Verify that the interaction with a menu finished successfully, in case of a failure try the whole process again, and then repeat this process with each menu one by one in separate commands to input all details
-- Check all details are correct and then press search
+- Interact with ONLY one menu (or button) at a time in a single action. This ensures clarity and minimizes errors during the booking process.
+- To start interacting with a menu or dropdown, click on the menu to open it and then wait. Do not rush or try to interact with multiple menus simultaneously.- Always remember to select the correct option from the dropdown (using click) before moving to the next menu
+- After the menu is opened, in the next action, begin typing the required text (e.g., departure city) into the menu. Wait for the website to process the input and display suggestions or results.- Check all details are correct and then press search
+- Once the dropdown suggestions are displayed, in the subsequent action, navigate to and select the correct option from the dropdown using a click action. This might be a city name, date, or other relevant details.
+- Always remember to select the correct option from the dropdown (using click) before moving to the next menu. This ensures that the website registers your selection correctly.
+- After interacting with a menu and making a selection, verify that the interaction was successful. This can be done by ensuring that the selected option is now displayed in the menu field.
+- In case of a failure or if the desired option isn't visible, start the whole process again for that particular menu. This ensures that you've inputted the correct details.
+- Repeat this process with each menu one by one in separate commands. For example, after selecting the departure city, move on to the destination city, followed by the departure date, and so on. This step-by-step approach minimizes the risk of errors or missed details.
+- Before pressing the "Search" button, review all the details entered to ensure they are correct. This includes checking the departure and arrival cities, dates, and any other relevant details.
+- Once all details have been verified, click on the "Search" button to view available flights.
