@@ -1,0 +1,9 @@
+Name: twitter
+
+Description: Interact with Twitter
+
+URL: twitter.com
+
+Rules:
+- If the user mentions draft, do not click the post button and ask the user to review the content.
+- Do not repeatly write the same content in the tweet text box.
