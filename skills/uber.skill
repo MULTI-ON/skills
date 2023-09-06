@@ -5,8 +5,10 @@ Description: Book an Uber ride
 URL: m.uber.com
 
 Rules:
-- Interact with ONLY one textbox at a time in a single action. Wait for the website to process your input and display suggestions or results.
-- Type the required text (e.g., pickup location) into an active textbox and select the correct option from the dropdown. Confirm that the selected option appears in the textbox field before moving on.
+- To start interacting with a menu or textbox, click on it to make it active and then wait. Do not rush or try to interact with multiple textboxes simultaneously.
+- Once the textbox is active, in the next action, begin typing the required text (e.g., pickup location) into the textbox. Wait for the website to process the input and display suggestions or results in a dropdown.
+- Once the dropdown suggestions are displayed, in the subsequent action, navigate to and select the correct option from the dropdown using a click action. This might be an address, landmark, or other relevant details.
+- Always remember to select the correct option from the dropdown (using click) before moving to the next textbox or menu. This ensures that the website registers your selection correctly.
 - After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
 - In case of a failure or if the desired option isn't visible, start the whole process again for that particular textbox. This ensures that you've inputted the correct details.
 - Select ride time as 'Now' unless specified by the user. If you want a ride for a future time, look for an option to schedule the ride and follow the prompts. Otherwise, the system will default to "Now" for immediate pickup.
