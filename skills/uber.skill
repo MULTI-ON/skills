@@ -5,6 +5,9 @@ Description: Book an Uber ride
 URL: m.uber.com
 
 Rules:
-- In the booking page, first type the pickup location, then wait. Once pickup location dropdown is shown, select the correct address before proceeding to any other action.
-- In the booking page, similarly, after properly filling the pickup location, type the destination location, then wait. Once the destination address dropdown is shown, select the correct address before proceeding to any other action
-- In the booking page, make sure the correct pickup and destination locations are set before searching for rides.
+- Interact with ONLY one textbox at a time in a single action. Wait for the website to process your input and display suggestions or results.
+- Type the required text (e.g., pickup location) into an active textbox and select the correct option from the dropdown. Confirm that the selected option appears in the textbox field before moving on.
+- After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
+- In case of a failure or if the desired option isn't visible, start the whole process again for that particular textbox. This ensures that you've inputted the correct details.
+- Select ride time as 'Now' unless specified by the user. If you want a ride for a future time, look for an option to schedule the ride and follow the prompts. Otherwise, the system will default to "Now" for immediate pickup.
+- After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
