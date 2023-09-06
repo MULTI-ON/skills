@@ -9,7 +9,6 @@ Rules:
 - Type and Select Pickup Location: Once the textbox is active, begin typing your pickup address or landmark. Wait for a dropdown menu with suggestions to appear, and then click on the correct option to select it.
 - Move to the Next Textbox for Destination: Now click on the next textbox labeled something like "Where to?" or "Destination." Similar to the pickup location, type your destination and wait for suggestions. Select the appropriate option from the dropdown menu.
 - Search for Ride Options: After both pickup and destination addresses are entered and confirmed, click on the 'Search' button. Wait for the available ride options to load.
-- After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
 - In case of a failure or if the desired option isn't visible, start the whole process again for that particular textbox. This ensures that you've inputted the correct details.
 - Select ride time as 'Now' unless specified by the user. If you want a ride for a future time, look for an option to schedule the ride and follow the prompts. Otherwise, the system will default to "Now" for immediate pickup.
 - After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
