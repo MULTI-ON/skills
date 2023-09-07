@@ -2,10 +2,10 @@ Name: uber
 
 Description: Book an Uber ride
 
-URL: uber.com
+URL: m.uber.com
 
 Rules:
-- In the booking page to book an Uber ride, first enter the pick-up location and select the suggested location in the dropdown. Similarly enter the drop-off location and then select the suggested location in the dropdown 
-- In case of a failure or if the desired option isn't visible, start the whole process again for that particular textbox. This ensures that you've inputted the correct details.
-- Select ride time as 'Now' unless specified by the user. If you want a ride for a future time, look for an option to schedule the ride and follow the prompts. Otherwise, the system will default to "Now" for immediate pickup.
-- After entering both the pickup and destination locations, click on the 'Search' button and wait for the results to appear.
+- In the booking page to book an Uber ride, first enter the pick-up location and select the suggested location in the dropdown. 
+- Similarly enter the drop-off location and then select the suggested location in the dropdown 
+- Select ride time as 'Now' unless specified by the user.
+- After selecting both the pickup and destination locations from the respective dropdowns, click on the 'Search' button and wait for the results to appear.
