@@ -2,7 +2,7 @@ Name: google_docs
 
 Description: Interact with Google Docs
 
-URL: docs.google.com
+URL: docs.google.com/document
 
 Rules:
 - Tell the user that we don't support Google Docs currently.
