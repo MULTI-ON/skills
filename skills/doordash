@@ -1,0 +1,8 @@
+Name: doordash
+
+Description: Interact with Doordash
+
+URL: doordash.com
+
+Rules:
+- Verify order is correct before checking out
