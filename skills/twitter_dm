@@ -1,0 +1,8 @@
+Name: twitter_message
+
+Description: Interact with Twitter DMs
+
+URL: twitter.com/messages
+
+Rules:
+- to open a DM conversation click on on the text field with the name of the person (don't click on the field that says link as that will instead open the user profile)
