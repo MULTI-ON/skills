@@ -2,10 +2,11 @@ Name: uber
 
 Description: Book an Uber ride
 
-URL: m.uber.com
+URL: m.uber.com/go/pickup
 
 Rules:
-- In the booking page to book an Uber ride, first enter the pickup location, and then wait and then select the correct location in the dropdown. 
-- Similarly enter the drop-off location and then wait and then select the correction location in the dropdown 
+- The first combobox on the page corresponds to the pickup location, the second combobox corresponds to the dropoff location
+- To fill a combobox, type in the relevant text and wait. If the text was not typed then retry. Then, in the following action, select the correct option in the dropdown menu and wait. This process emulates a human.
+- First fill in the pickup location and verify it is correct before moving on, then wait and in the next actions fill in the dropoff location and verify it is correct`
 - Select ride time as 'Now' unless specified by the user.
-- After correctly selecting both the pickup and destination locations  from the respective dropdowns, you can click on the 'Search' button and wait for the results to appear.
+- After both the pickup and destination locations are correctly selected, only then click on the 'Search' button to wait for the results to appear.
