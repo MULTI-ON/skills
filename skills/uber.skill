@@ -9,4 +9,5 @@ Rules:
 - To fill a combobox, type in the relevant text and wait. If the text was not typed then retry. Then, in the following action, select the correct option in the dropdown menu and wait. This process emulates a human.
 - First fill in the pickup location and verify it is correct before moving on, then wait and in the next actions fill in the dropoff location and verify it is correct`
 - Select ride time as 'Now' unless specified by the user.
+- If an option is visible on the page then a dropdown is open and filling it correctly is the current highest priority before continuing to next action.
 - After both the pickup and destination locations are correctly selected, only then click on the 'Search' button to wait for the results to appear.
