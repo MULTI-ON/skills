@@ -2,7 +2,7 @@ Name: uber
 
 Description: Book an Uber ride
 
-URL: m.uber.com/go/pickup
+URL: m.uber.com/go
 
 Rules:
 - The first combobox on the page corresponds to the pickup location, the second combobox corresponds to the dropoff location
