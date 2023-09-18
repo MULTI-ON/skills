@@ -6,4 +6,5 @@ URL: uber.com/us/en/ride
 
 Rules:
 - After both the pickup and destination locations are correctly selected from the dropdowns, only then click on 'see prices'
-- Don't click see prices if any option is visible is visible on the page, and in this case choose the right option from the dropdowns.
+- If an option is visible on the page then a dropdown is open and filling it correctly is the current highest priority before continuing to next action.
+- Don't click see prices if any option is visible on the page
