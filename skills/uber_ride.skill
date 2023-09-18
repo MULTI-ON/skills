@@ -2,7 +2,7 @@ Name: uber
 
 Description: Book an Uber ride
 
-URL: uber.com/us/en/ride/
+URL: uber.com/us/en/ride
 
 Rules:
 - Don't click see prices, until all the options have been correctly selected from the dropdown lists
