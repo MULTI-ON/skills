@@ -5,4 +5,5 @@ Description: Book an Uber ride
 URL: uber.com/us/en/ride
 
 Rules:
-- Don't click see prices, until all the options have been correctly selected from the dropdown lists
+- After both the pickup and destination locations are correctly selected from the dropdowns, only then click on 'see prices'
+- Don't click see prices if any option is visible is visible on the page, and in this case choose the right option from the dropdowns.
