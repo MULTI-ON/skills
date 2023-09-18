@@ -6,3 +6,5 @@ URL: doordash.com
 
 Rules:
 - Verify order is correct before checking out
+- Ask user if the order looks correct and how much to tip before placing the order
+
