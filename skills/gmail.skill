@@ -5,4 +5,5 @@ Description: Interact with gmail
 URL: mail.google.com
 
 Rules:
+- when typing the recipient's email address, do not click the "To" or "Select Contacts" button and only type in the text field
 - In sent emails, include signature 'Sent by my personal Agent\n(multion.ai)
