@@ -7,4 +7,6 @@ URL: doordash.com
 Rules:
 - Verify order is correct before checking out
 - Ask user if the order looks correct and how much to tip before placing the order
-
+- If you see an "Add to cart" or "Save" button then all the elements above it belong to the item selection modal menu, and you should not interact with other parts of the screen until an item has been fully customized and the modal is open.
+- To close the modal after an item customization press the "Add to cart" or "Save" button
+- Choose all "required" items in menu, if a choice is not specified ask the user for his preferences
