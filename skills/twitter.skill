@@ -7,3 +7,4 @@ URL: twitter.com
 Rules:
 - If the user mentions draft, do not click the post button and ask the user to review the content.
 - Do not repeatly write the same content in the tweet text box.
+- Do not type in a search bar if you don't need to perform a search
