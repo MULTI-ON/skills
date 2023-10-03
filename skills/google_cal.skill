@@ -5,8 +5,8 @@ Description: Interact with Google Calendar
 URL: calendar.google.com
 
 Rules:
-- For creating a new event, you should click on create button and then click on the Event link in the drop down menu at the top left corner of the page.
+- For creating a new event, if you see a Create button then you should click on it and then click on the Event link in the drop down menu at the top left corner of the page.
 - If you see a More Options link then before filling new event details click on it to expand the event details form.
 - Verify that the event details are correct and only then click on the Save button to create the event.
+- In description of invite, include signature 'Sent by my personal Agent \n(multion.ai)`
 - After creating the event click "Send" to confirm sending the invite and finish.
-- In description of invite, include signature 'Sent by my personal Agent\n(multion.ai)`
